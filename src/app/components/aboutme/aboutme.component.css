@@ -1,0 +1,36 @@
+h1,h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color: #225A34;
+
+}
+
+.box1 {
+    height: 200px;
+    width: 60%;
+    color: #225A34;
+    padding: 10px;
+    border: 2px solid #B9E3AE;
+    margin-left: 20%;
+    background-color: #f3f3f3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img.me{
+    float: right;
+    margin-right:12%;
+    border: 2px solid #B9E3AE;
+    border-radius: 50%;
+}
+img.ex {
+    margin-top: 15px;
+    margin-right:10%;
+    margin-left:22%;
+    border: 2px solid #B9E3AE;
+    border-radius: 5%;
+}
+img.cn{
+
+    margin-right:12%;
+    border: 2px solid #B9E3AE;
+    border-radius: 5%;
+}
